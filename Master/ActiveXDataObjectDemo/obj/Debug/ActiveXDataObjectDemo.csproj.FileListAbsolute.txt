@@ -1,0 +1,11 @@
+G:\ITI MATERIAL\C#\C# نصر\Day9\Lab\Solutions\Master\ActiveXDataObjectDemo\bin\Debug\ActiveXDataObjectDemo.exe.config
+G:\ITI MATERIAL\C#\C# نصر\Day9\Lab\Solutions\Master\ActiveXDataObjectDemo\bin\Debug\ActiveXDataObjectDemo.exe
+G:\ITI MATERIAL\C#\C# نصر\Day9\Lab\Solutions\Master\ActiveXDataObjectDemo\bin\Debug\ActiveXDataObjectDemo.pdb
+G:\ITI MATERIAL\C#\C# نصر\Day9\Lab\Solutions\Master\ActiveXDataObjectDemo\obj\Debug\ActiveXDataObjectDemo.csproj.AssemblyReference.cache
+G:\ITI MATERIAL\C#\C# نصر\Day9\Lab\Solutions\Master\ActiveXDataObjectDemo\obj\Debug\ActiveXDataObjectDemo.Properties.Resources.resources
+G:\ITI MATERIAL\C#\C# نصر\Day9\Lab\Solutions\Master\ActiveXDataObjectDemo\obj\Debug\ActiveXDataObjectDemo.csproj.GenerateResource.cache
+G:\ITI MATERIAL\C#\C# نصر\Day9\Lab\Solutions\Master\ActiveXDataObjectDemo\obj\Debug\ActiveXDataObjectDemo.csproj.CoreCompileInputs.cache
+G:\ITI MATERIAL\C#\C# نصر\Day9\Lab\Solutions\Master\ActiveXDataObjectDemo\obj\Debug\ActiveXDataObjectDemo.exe
+G:\ITI MATERIAL\C#\C# نصر\Day9\Lab\Solutions\Master\ActiveXDataObjectDemo\obj\Debug\ActiveXDataObjectDemo.pdb
+G:\ITI MATERIAL\C#\C# نصر\Day9\Lab\Solutions\Master\ActiveXDataObjectDemo\obj\Debug\ActiveXDataObjectDemo.PhoneBookV1.resources
+G:\ITI MATERIAL\C#\C# نصر\Day9\Lab\Solutions\Master\ActiveXDataObjectDemo\obj\Debug\ActiveXDataObjectDemo.PhoneBookV2.resources
